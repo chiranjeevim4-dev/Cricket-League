@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chiranjeevim4-dev/Cricket-League/static/css/main.3b71cc2a.css",
+    "main.js": "/chiranjeevim4-dev/Cricket-League/static/js/main.05667d5f.js",
+    "static/js/453.e175c7c8.chunk.js": "/chiranjeevim4-dev/Cricket-League/static/js/453.e175c7c8.chunk.js",
+    "index.html": "/chiranjeevim4-dev/Cricket-League/index.html",
+    "main.3b71cc2a.css.map": "/chiranjeevim4-dev/Cricket-League/static/css/main.3b71cc2a.css.map",
+    "main.05667d5f.js.map": "/chiranjeevim4-dev/Cricket-League/static/js/main.05667d5f.js.map",
+    "453.e175c7c8.chunk.js.map": "/chiranjeevim4-dev/Cricket-League/static/js/453.e175c7c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.05667d5f.js"
+  ]
+}
