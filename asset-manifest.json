@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Cricket-League/static/css/main.3b71cc2a.css",
-    "main.js": "/Cricket-League/static/js/main.18b92668.js",
+    "main.js": "/Cricket-League/static/js/main.aa519a51.js",
     "static/js/453.e175c7c8.chunk.js": "/Cricket-League/static/js/453.e175c7c8.chunk.js",
     "index.html": "/Cricket-League/index.html",
     "main.3b71cc2a.css.map": "/Cricket-League/static/css/main.3b71cc2a.css.map",
-    "main.18b92668.js.map": "/Cricket-League/static/js/main.18b92668.js.map",
+    "main.aa519a51.js.map": "/Cricket-League/static/js/main.aa519a51.js.map",
     "453.e175c7c8.chunk.js.map": "/Cricket-League/static/js/453.e175c7c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b71cc2a.css",
-    "static/js/main.18b92668.js"
+    "static/js/main.aa519a51.js"
   ]
 }
