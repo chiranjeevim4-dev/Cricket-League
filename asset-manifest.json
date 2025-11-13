@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Cricket-League/static/css/main.3b71cc2a.css",
-    "main.js": "/Cricket-League/static/js/main.aa519a51.js",
-    "static/js/453.e175c7c8.chunk.js": "/Cricket-League/static/js/453.e175c7c8.chunk.js",
-    "index.html": "/Cricket-League/index.html",
-    "main.3b71cc2a.css.map": "/Cricket-League/static/css/main.3b71cc2a.css.map",
-    "main.aa519a51.js.map": "/Cricket-League/static/js/main.aa519a51.js.map",
-    "453.e175c7c8.chunk.js.map": "/Cricket-League/static/js/453.e175c7c8.chunk.js.map"
+    "main.css": "/static/css/main.3b71cc2a.css",
+    "main.js": "/static/js/main.211ff88a.js",
+    "static/js/453.e175c7c8.chunk.js": "/static/js/453.e175c7c8.chunk.js",
+    "index.html": "/index.html",
+    "main.3b71cc2a.css.map": "/static/css/main.3b71cc2a.css.map",
+    "main.211ff88a.js.map": "/static/js/main.211ff88a.js.map",
+    "453.e175c7c8.chunk.js.map": "/static/js/453.e175c7c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b71cc2a.css",
-    "static/js/main.aa519a51.js"
+    "static/js/main.211ff88a.js"
   ]
 }
