@@ -235,25 +235,13 @@ export default function App() {
                     </tr>
                     <tr>
                       <td>4</td>
-                      <td className="highlight-name">Dilip Kumar</td>
-                      <td>Member</td>
-                      <td>Coimbatore</td>
-                    </tr>
-                    <tr>
-                      <td>5</td>
                       <td className="highlight-name">Sridevi</td>
                       <td>Member</td>
                       <td>Coimbatore</td>
                     </tr>
                     <tr>
-                      <td>6</td>
+                      <td>5</td>
                       <td className="highlight-name">Vijesh</td>
-                      <td>Member</td>
-                      <td>Coimbatore</td>
-                    </tr>
-                    <tr>
-                      <td>7</td>
-                      <td className="highlight-name">Ranjith</td>
                       <td>Member</td>
                       <td>Coimbatore</td>
                     </tr>
